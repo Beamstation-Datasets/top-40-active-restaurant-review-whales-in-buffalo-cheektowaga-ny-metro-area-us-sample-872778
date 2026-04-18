@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 40% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 5km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 40% Active Restaurant Review Whales in Buffalo-Cheektowaga, NY Metro Area, US",
-  "export_job_id": "334ea603-2bd1-49b5-bdca-e5ed2955ca43",
+  "export_job_id": "04cf5c19-c2a8-407b-9e60-b4dd2790a3a7",
   "github_org": "Beamstation-Datasets",
   "id_short": 872778,
   "location_name": "Buffalo-Cheektowaga, NY",
   "location_type": "metro",
   "repo_name": "top-40-active-restaurant-review-whales-in-buffalo-cheektowaga-ny-metro-area-us-sample-872778",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/872778/beamstation_872778_restaurants-us-buffalocheektowagany_SAMPLE_DIST.csv",
-  "sample_pct": 13.73,
+  "sample_pct": 9.82,
   "sample_records": 28,
   "sample_sha256": "b082067ade8207e6aec27f22dd91ff1fc26a4f61ae4b5c73cd75ae53d5f60285",
   "sample_size_bytes": 119346,
-  "total_records": 204,
-  "updated_at": "2026-04-01T01:26:00.158713+00:00"
+  "total_records": 285,
+  "updated_at": "2026-04-15T03:32:24.884415+00:00"
 }
