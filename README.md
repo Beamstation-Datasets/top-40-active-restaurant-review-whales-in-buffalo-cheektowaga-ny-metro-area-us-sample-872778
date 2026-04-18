@@ -9,9 +9,9 @@
 | Dataset ID | `872778` |
 | Location | Buffalo-Cheektowaga, NY |
 | Category | Restaurants |
-| Full dataset size | 204 records |
-| Free sample size | 28 records (13.73%) |
-| Last export | 2026-04-01T01:26:00.158713+00:00 |
+| Full dataset size | 285 records |
+| Free sample size | 28 records (9.82%) |
+| Last export | 2026-04-15T03:32:24.884415+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-40-active-restaurant-review-whales-in-buffalo-cheektowaga-ny-metro-area-us-sample-872778/releases/download/sample-latest/beamstation_872778_restaurants-us-buffalocheektowagany_SAMPLE_DIST.csv) |
 
 ## What is in this sample
