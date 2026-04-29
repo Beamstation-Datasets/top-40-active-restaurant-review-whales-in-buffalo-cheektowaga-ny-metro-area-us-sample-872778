@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9a4d930b-fcb5-4941-8c95-a877e48de806",
+  "export_job_id": "d706808c-3407-422c-8e19-00334bb30a38",
   "id_short": 872778,
-  "published_at": "2026-04-23T07:28:18Z",
+  "published_at": "2026-04-29T19:53:36Z",
   "repo_name": "top-40-active-restaurant-review-whales-in-buffalo-cheektowaga-ny-metro-area-us-sample-872778",
   "sample_asset_name": "beamstation_872778_restaurants-us-buffalocheektowagany_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/872778/beamstation_872778_restaurants-us-buffalocheektowagany_SAMPLE_DIST.csv",
-  "sample_records": 21,
-  "sample_sha256": "f1c1bde72b7a53b45d52824d86d1bab273669293fc6e0ed031dc2569ae1c17a9",
-  "sample_size_bytes": 93581,
-  "total_records": 212
+  "sample_records": 22,
+  "sample_sha256": "bff6ad6780b7ca345e9703d0c95b0f3f637247c4c6385ee44152df6dace9e852",
+  "sample_size_bytes": 99416,
+  "total_records": 224
 }
